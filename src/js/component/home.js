@@ -20,5 +20,6 @@ Home.propTypes = {
 	sUno: PropTypes.number,
 	sDos: PropTypes.number,
 	sTres: PropTypes.number,
-	sCuatro: PropTypes.number
+    sCuatro: PropTypes.number
+    
 };

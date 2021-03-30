@@ -23,4 +23,4 @@ setInterval(function() {
 		<Home sUno={uno} sDos={dos} sTres={tres} sCuatro={cuatro} />,
 		document.querySelector("#app")
 	);
-}, 100);
+},  100);
